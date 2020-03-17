@@ -1,5 +1,5 @@
 # Tutorial Intro React | Jogo da Velha
-[![Tutorial]](https://pt-br.reactjs.org/tutorial/tutorial.html)
+[[Tutorial]](https://reactjs.org/tutorial/tutorial.html)
 
 Instruções para rodar o projeto:
 
